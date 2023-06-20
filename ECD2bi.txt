@@ -1,0 +1,19 @@
+Relatorio trabalho Ordenação
+
+*Começando com o a Leitura do tamanho do vetor.
+
+* Menu com as opção de escolha de qual metodo de ordenação (com switch)
+- Inserção
+- Seleção
+- Bolha
+depois de ordenado
+
+* Menu novamente com a opção de pesquisa
+-Se não encontrado o numero, aparece uma mensagem e puxa o menu novamente.
+- Se encontrado, exibe o vetor antes e depois da ordenação, posição do numero
+
+*Realizado testes com 200 a 500 posições.
+-Inserção e bolha se sai melhor com menos de 300 posiçoes
+- seleção perde um pouco de desempenho mas se sai melhor com mais posiçoes do que as outras.
+
+ 
